@@ -1,0 +1,265 @@
+* {
+  font-family: 'Product Sans', 'sans-serif';
+}
+
+@media (min-width: 0px) {
+  .my-shadow {
+    box-shadow: 0 0.6rem 1.2rem rgba(0, 0, 0, 0.288)!important;
+  }
+  .my-text-light {
+    color: #F2F2F2;
+  }
+  .my-bg-primary {
+    background-color: #4F4F4F;
+  }
+
+  .my-bg-dark {
+      background-color: #404040;
+  }
+
+  .my-bg-light {
+      background-color: #F2F2F2;
+  }
+
+  .my-text-primary {
+      color: #4F4F4F;
+  }
+
+  .my-text-dark {
+      color: #404040;
+  }
+
+  .my-text-light {
+      color: #F2F2F2;
+  }
+
+  .my-letter-spacing-3 {
+      letter-spacing: 3px;
+  }
+
+  .my-fs-smaller {
+    font-size: smaller;
+  }
+
+  .my-fs-xxsmall {
+    font-size: xx-small;
+  }
+
+  .my-fs-small {
+    font-size: small;
+  }
+
+  .my-fs-medium {
+    font-size: medium;
+  }
+
+  .my-fs-large {
+    font-size: large;
+  }
+
+  .my-fs-larger {
+    font-size: larger;
+  }
+
+  .my-fs-xlarge {
+    font-size: x-large;
+  }
+
+  .my-fs-xxlarge {
+    font-size: xx-large;
+  }
+
+  .my-bg-img{
+      background-image: url(images/profile_picture.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 100%;
+  }
+
+  .my-h-300px {
+    height: 300px;
+  }
+}
+
+@media (min-width: 576px) {
+  
+}
+
+@media (min-width: 768px) {
+  .my-w-md-350px {
+    width: 300px;
+  }
+
+  .my-h-md-300px {
+    height: 300px;
+  }
+
+  .my-h-md-p {
+    height: 100%;
+  }
+
+  .my-h-md-45p {
+    height: 45%;
+  }
+
+  .my-h-md-vh {
+    height: 100vh;
+  }
+
+  .my-text-md-light {
+    color: #F2F2F2;
+  }
+
+  .my-fs-md-smaller {
+    font-size: smaller;
+  }
+
+  .my-fs-md-xxsmall {
+    font-size: xx-small;
+  }
+
+  .my-fs-md-small {
+    font-size: small;
+  }
+
+  .my-fs-md-medium {
+    font-size: medium;
+  }
+
+  .my-fs-md-large {
+    font-size: large;
+  }
+
+  .my-fs-md-larger {
+    font-size: larger;
+  }
+
+  .my-fs-md-xlarge {
+    font-size: x-large;
+  }
+
+  .my-fs-md-xxlarge {
+    font-size: xx-large;
+  }
+
+  .my-position-md-relative {
+    position: relative;
+  }
+
+  .my-position-md-absolute {
+    position: absolute;
+  }
+
+  .my-start-md-140px {
+    left: 140px;
+  }
+
+  .my-top-md-130px {
+    top: 130px;
+  }
+
+  .my-top-md-62p {
+    top: 62%;
+  }
+
+  .my-zindex-md-n1 {
+    z-index: -1;
+  }
+
+  .my-zindex-md-n2 {
+    z-index: -2;
+  }
+}
+
+@media (min-width: 992px) {
+  .my-h-lg-425px {
+    height: 425px;
+  }
+  .my-w-lg-425px {
+    width: 425px;
+  }
+  .my-fs-lg-smaller {
+    font-size: smaller;
+  }
+
+  .my-fs-lg-xxsmall {
+    font-size: xx-small;
+  }
+
+  .my-fs-lg-small {
+    font-size: small;
+  }
+
+  .my-fs-lg-medium {
+    font-size: medium;
+  }
+
+  .my-fs-lg-large {
+    font-size: large;
+  }
+
+  .my-fs-lg-larger {
+    font-size: larger;
+  }
+
+  .my-fs-lg-xlarge {
+    font-size: x-large;
+  }
+
+  .my-fs-lg-xxlarge {
+    font-size: xx-large;
+  }
+
+  .my-top-lg-160px {
+    top: 160px;
+  }
+
+  .my-top-lg-62p {
+    top: 62%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .my-fs-xl-smaller {
+    font-size: smaller;
+  }
+
+  .my-fs-xl-xxsmall {
+    font-size: xx-small;
+  }
+
+  .my-fs-xl-small {
+    font-size: small;
+  }
+
+  .my-fs-xl-medium {
+    font-size: medium;
+  }
+
+  .my-fs-xl-large {
+    font-size: large;
+  }
+
+  .my-fs-xl-larger {
+    font-size: larger;
+  }
+
+  .my-fs-xl-xlarge {
+    font-size: x-large;
+  }
+
+  .my-fs-xl-xxlarge {
+    font-size: xx-large;
+  }
+
+  .my-top-xl-66p {
+    top: 66%;
+  }
+}
+
+@media (min-width: 1400px) {
+  
+}
+
+
